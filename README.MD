@@ -1,9 +1,11 @@
 # ProGrow
 
 #### *For connecting farmers to all the contractors*
+<p align= "center">
 
-![ProGrow](./assets/logo.png)
+  <img src="./assets/logo.png" alt="ProgGrow"/>
 
+</p>
 ## Table of Contents
 
 - [ProGrow](#progrow)
